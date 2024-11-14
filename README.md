@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
 
-## Developed by : E.Mythri
+## Name : E.Mythri
 ## Register.no :212223240034
 
 ## AIM :
